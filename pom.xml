@@ -4,8 +4,8 @@
     <groupId>com.visualpathit</groupId>
     <artifactId>vprofile</artifactId>
     <packaging>war</packaging>
-    <version>1.0.0</version>
-    <name>visualpathit-vprofile-webapp</name>
+    <version>v2</version>
+    <name>visualpathit vprofile webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
         <spring.version>4.2.0.RELEASE</spring.version>
